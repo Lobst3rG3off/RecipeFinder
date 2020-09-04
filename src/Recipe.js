@@ -1,12 +1,12 @@
 import React from 'react';
 
 
-const Recipe = () => {
+const Recipe = ({title, calories, image}) => {
     return(
         <div>
-            <h1></h1>
-            <p>Calories</p>
-            <img src="" alt=""/>
+            <h1>{title}</h1>
+            <p>The number of Calories is {calories}</p>
+            <img src={image} alt={title}/>
         </div>
     );
 }

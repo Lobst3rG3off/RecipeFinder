@@ -31,8 +31,11 @@ const getRecipes = async () => {
            </button>
       </form>
       {recipes.map(recipe =>(
-        <Recipe title={recipe.recipe.label} calories={recipe.recipe.calories} 
-        img={recipe.recipe.img} />
+        <Recipe 
+        title={recipe.recipe.label} 
+        calories={recipe.recipe.calories} 
+        image={recipe.recipe.image}
+         />
       ))};
     </div>
   )
