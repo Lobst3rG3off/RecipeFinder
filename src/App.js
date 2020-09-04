@@ -21,17 +21,16 @@ const getRecipes = async () => {
  const response = await fetch(`https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`);
  const data = await response.json();
  setRecipes(data.hits)
- console.log(data.hits)
 };
 
 const updateSearch = e => {
  setSearch(e.target.value)
- console.log(search)
 }
 
 const getSearch = e => {
   e.preventDefault();
-  setQuery(search)
+  setQuery(search);
+  setSearch('');
 }
 
   return(
@@ -48,6 +47,7 @@ const getSearch = e => {
         title={recipe.recipe.label} 
         calories={recipe.recipe.calories} 
         image={recipe.recipe.image}
+        ingredients={recipe.recipe.ingredients}
          />
       ))};
     </div>
