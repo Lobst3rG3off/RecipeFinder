@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RecipieFinder/static/css/main.ff9c2083.chunk.css",
+    "main.js": "/RecipieFinder/static/js/main.59faed63.chunk.js",
+    "main.js.map": "/RecipieFinder/static/js/main.59faed63.chunk.js.map",
+    "runtime-main.js": "/RecipieFinder/static/js/runtime-main.d0e70cf4.js",
+    "runtime-main.js.map": "/RecipieFinder/static/js/runtime-main.d0e70cf4.js.map",
+    "static/js/2.16cdcfba.chunk.js": "/RecipieFinder/static/js/2.16cdcfba.chunk.js",
+    "static/js/2.16cdcfba.chunk.js.map": "/RecipieFinder/static/js/2.16cdcfba.chunk.js.map",
+    "index.html": "/RecipieFinder/index.html",
+    "precache-manifest.e69bbd9971cb0f537b5579b0d65a5a02.js": "/RecipieFinder/precache-manifest.e69bbd9971cb0f537b5579b0d65a5a02.js",
+    "service-worker.js": "/RecipieFinder/service-worker.js",
+    "static/css/main.ff9c2083.chunk.css.map": "/RecipieFinder/static/css/main.ff9c2083.chunk.css.map",
+    "static/js/2.16cdcfba.chunk.js.LICENSE.txt": "/RecipieFinder/static/js/2.16cdcfba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e70cf4.js",
+    "static/js/2.16cdcfba.chunk.js",
+    "static/css/main.ff9c2083.chunk.css",
+    "static/js/main.59faed63.chunk.js"
+  ]
+}
