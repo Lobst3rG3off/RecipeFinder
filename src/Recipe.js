@@ -1,15 +1,14 @@
-import React from 'react'
+import React from 'react';
 
 
-
-const recipe = () => {
+const Recipe = () => {
     return(
         <div>
-            <h1>Title</h1>
+            <h1></h1>
             <p>Calories</p>
             <img src="" alt=""/>
         </div>
-    )
+    );
 }
 
 export default Recipe;
