@@ -1,4 +1,5 @@
 import React, {useEffect, useState} from 'react';
+import Recipe from './Recipe';
 import './App.css';
 
 const App = () => {
@@ -28,6 +29,9 @@ const getRecipes = async () => {
            Search
            </button>
       </form>
+      {/* {recipes.map(recipe =>(
+        // <Recipe />
+      ))}; */}
     </div>
   )
 }
