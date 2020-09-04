@@ -8,11 +8,11 @@ const Recipe = ({title, calories, image, ingredients}) => {
             
             <img src={image} alt={title}/>
             <p>The number of Calories is {calories}</p>
-            <ol>
+            <ul>
                 {ingredients.map(ingredient =>(
                     <li>{ingredient.text}</li>
                 ))}
-            </ol>
+            </ul>
         </div>
     );
 }

@@ -41,6 +41,7 @@ const getSearch = e => {
            Search
            </button>
       </form>
+      <div className="recipes">
       {recipes.map(recipe =>(
         <Recipe 
         key ={recipe.recipe.label}
@@ -49,7 +50,9 @@ const getSearch = e => {
         image={recipe.recipe.image}
         ingredients={recipe.recipe.ingredients}
          />
+         
       ))};
+      </div>
     </div>
   )
 }
