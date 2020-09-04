@@ -35,6 +35,9 @@ const getSearch = e => {
 
   return(
     <div className="App">
+
+    
+
       <form onSubmit={getSearch} className="search-form">
         <input className="search-bar" type="text" value={search} onChange={updateSearch} />
         <button className="search-button" type="submit">
@@ -51,7 +54,7 @@ const getSearch = e => {
         ingredients={recipe.recipe.ingredients}
          />
          
-      ))};
+      ))}
       </div>
     </div>
   )
