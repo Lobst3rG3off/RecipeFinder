@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "621aeb9fab3e27ae0eeb3464070358d5",
+    "revision": "2eeed7bfe7de7b2dcf8afb4c9cb8733c",
     "url": "/RecipieFinder/index.html"
   },
   {
-    "revision": "af1324631831d99ce5b5",
-    "url": "/RecipieFinder/static/css/main.ff9c2083.chunk.css"
+    "revision": "9b022d1b312ca9af19d1",
+    "url": "/RecipieFinder/static/css/main.f814377a.chunk.css"
   },
   {
     "revision": "0dbb17bc94c917c29449",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RecipieFinder/static/js/2.16cdcfba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af1324631831d99ce5b5",
-    "url": "/RecipieFinder/static/js/main.59faed63.chunk.js"
+    "revision": "9b022d1b312ca9af19d1",
+    "url": "/RecipieFinder/static/js/main.15a647a5.chunk.js"
   },
   {
     "revision": "de65bcd577e8b782c60c",
