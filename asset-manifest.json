@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/RecipeFinder/static/css/main.f814377a.chunk.css",
-    "main.js": "/RecipeFinder/static/js/main.0c1e5354.chunk.js",
-    "main.js.map": "/RecipeFinder/static/js/main.0c1e5354.chunk.js.map",
+    "main.css": "/RecipeFinder/static/css/main.8d63ab6c.chunk.css",
+    "main.js": "/RecipeFinder/static/js/main.6582e651.chunk.js",
+    "main.js.map": "/RecipeFinder/static/js/main.6582e651.chunk.js.map",
     "runtime-main.js": "/RecipeFinder/static/js/runtime-main.ceb60960.js",
     "runtime-main.js.map": "/RecipeFinder/static/js/runtime-main.ceb60960.js.map",
-    "static/js/2.16cdcfba.chunk.js": "/RecipeFinder/static/js/2.16cdcfba.chunk.js",
-    "static/js/2.16cdcfba.chunk.js.map": "/RecipeFinder/static/js/2.16cdcfba.chunk.js.map",
+    "static/js/2.1c82d726.chunk.js": "/RecipeFinder/static/js/2.1c82d726.chunk.js",
+    "static/js/2.1c82d726.chunk.js.map": "/RecipeFinder/static/js/2.1c82d726.chunk.js.map",
     "index.html": "/RecipeFinder/index.html",
-    "precache-manifest.c86e7a16fa496efce5096a861e1281fe.js": "/RecipeFinder/precache-manifest.c86e7a16fa496efce5096a861e1281fe.js",
+    "precache-manifest.fc77211042979030c424ad2b91b8071a.js": "/RecipeFinder/precache-manifest.fc77211042979030c424ad2b91b8071a.js",
     "service-worker.js": "/RecipeFinder/service-worker.js",
-    "static/css/main.f814377a.chunk.css.map": "/RecipeFinder/static/css/main.f814377a.chunk.css.map",
-    "static/js/2.16cdcfba.chunk.js.LICENSE.txt": "/RecipeFinder/static/js/2.16cdcfba.chunk.js.LICENSE.txt"
+    "static/css/main.8d63ab6c.chunk.css.map": "/RecipeFinder/static/css/main.8d63ab6c.chunk.css.map",
+    "static/js/2.1c82d726.chunk.js.LICENSE.txt": "/RecipeFinder/static/js/2.1c82d726.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ceb60960.js",
-    "static/js/2.16cdcfba.chunk.js",
-    "static/css/main.f814377a.chunk.css",
-    "static/js/main.0c1e5354.chunk.js"
+    "static/js/2.1c82d726.chunk.js",
+    "static/css/main.8d63ab6c.chunk.css",
+    "static/js/main.6582e651.chunk.js"
   ]
 }
