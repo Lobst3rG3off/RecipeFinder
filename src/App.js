@@ -42,7 +42,7 @@ const getSearch = e => {
     <div className="App">
 
 <div className="instructions">
-  <h1> Chef Geoff's Okay Recipe Finder!</h1>
+  <h1> Chef Geoff's Recipe Finder!</h1>
   <h2> Looking for How to Cook Something? </h2>
   <p> Search for a recipe or something that tickles your fancy! </p>
 </div>
